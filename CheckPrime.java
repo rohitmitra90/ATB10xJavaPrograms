@@ -10,7 +10,7 @@ public class CheckPrime {
       scanner.close();
       boolean result = isPrime(a);
 
-      if (result == true)
+      if (result)
         {
             System.out.println("The number is a prime number");
         }
